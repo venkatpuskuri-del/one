@@ -1365,10 +1365,10 @@
         ];
 
         const PRODUCTS = [
-            { id: 1, title: 'iPhone 14 Pro Max', price: 1099, oldPrice: 299, rating: 5, reviews: 128, badge: 'New',
+            { id: 1, title: 'iPhone 14 Pro Max', price: 599, oldPrice: 1099, rating: 5, reviews: 128, badge: 'New',
                 img: 'https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=600&q=80',
                 category: 'Smartphones' },
-            { id: 2, title: 'MacBook Pro 14"', price: 1999, rating: 4, reviews: 86, badge: '',
+            { id: 2, title: 'MacBook Pro 14"', price: 2999, rating: 4, reviews: 86, badge: '',
                 img: 'https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=600&q=80',
                 category: 'Laptops' },
             { id: 3, title: 'Apple Watch Series 8', price: 349, oldPrice: 399, rating: 5, reviews: 214, badge: 'Sale',
